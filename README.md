@@ -1,6 +1,6 @@
 # ZVChain Improvement Proposals (ZIPs)
 
-ZVChain Improvement Proposals (ZIPs) describe standards for the ZVC hai n platform, including core protocol specifications, client APIs, and contract standards.
+ZVChain Improvement Proposals (ZIPs) describe standards for the ZVChain platform, including core protocol specifications, client APIs, and contract standards.
 
 # Contributing
  1. Fork the repository by clicking "Fork" in the top right.
@@ -15,7 +15,7 @@ Once your first PR is merged, we have a bot that helps out by automatically merg
 
 When you believe your ZIP is mature and ready to progress past the draft phase, you should do one of two things:
 
- - **For a Standards Track ZIP of type Core**, ask to have your issue added to [the agenda of an upcoming All Core Devs meeting](https://github.com/zvchain/pm/issues), where it can be discussed for inclusion in a future hard fork. If implementers agree to include it, the ZIP editors will update the state of your ZIP to 'Accepted'.
+ - **For a Standards Track ZIP of type Core**, ask to have your issue added to [the agenda of an upcoming All Core Devs meeting](https://github.com/zvchain/ZIPs/issues), where it can be discussed for inclusion in a future hard fork. If implementers agree to include it, the ZIP editors will update the state of your ZIP to 'Accepted'.
  - **For all other ZIPs**, open a PR changing the state of your ZIP to 'Final'. An editor will review your draft and ask if anyone objects to its being finalised. If the editor decides there is no rough consensus - for instance, because contributors point out significant issues with the ZIP - they may close the PR and request that you fix the issues in the draft before trying again.
 
 # ZIP Status Terms
